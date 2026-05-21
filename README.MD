@@ -4,7 +4,7 @@
 这些提示词主要来自 x.com 等平台当下流行的AI图像生成提示词，反映了近期高频使用的提示词风格与创作方向。
 它们可视为一套 Prompt as Code 资产，强调结构化、可复用、可检索。
 
-- 在线预览：https://gptimageprompt.xyz/
+- 在线预览：https://imagepromptbase.xyz/
 - 关注作者：https://x.com/louwlouaidev
 
 ## 价值
